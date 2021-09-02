@@ -1,0 +1,55 @@
+﻿﻿html {
+    background-color: #00539F;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+    
+}
+
+p {
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    
+}
+
+p, li, h1 {
+    font-family: 'Zen Loop', cursive;
+}
+
+h1, h2, h3 {
+    font-size: 60px;
+    text-align: center;
+    color:white
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color:white
+   
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: black;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+.outside {
+    margin: 3rem 0 0 -3rem;
+    background: cyan;
+    width: 66%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+}
